@@ -2,9 +2,9 @@ class Node{
     int value;
     Node next;
 
-    public Node(int value){ //constructor to create new node
+    public Node(int value){ // to create new node
         this.value = value;
-        this.next = null; //reference to the next node
+        this.next = null; // the next node
     }
 }
 
